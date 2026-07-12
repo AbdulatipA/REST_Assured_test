@@ -1,3 +1,5 @@
+package specification;
+
 import io.restassured.specification.RequestSpecification;
 
 public interface RequestState {
