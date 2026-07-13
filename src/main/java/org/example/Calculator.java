@@ -7,7 +7,7 @@ public class Calculator {
         return a + b;
     }
 
-    public int minus(int a, int b) {
+    public int subtract(int a, int b) {
         return a - b;
     }
 
@@ -17,5 +17,9 @@ public class Calculator {
 
     public int divide(int a, int b) {
         return a / b;
+    }
+
+    public String concatenate(String a, String b) {
+        return a + b;
     }
 }

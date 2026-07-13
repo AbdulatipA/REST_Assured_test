@@ -17,15 +17,8 @@ dependencies {
     testImplementation 'io.rest-assured:rest-assured:6.0.0'
 
 
-
     // Source: https://mvnrepository.com/artifact/io.cucumber/cucumber-java
     implementation 'io.cucumber:cucumber-java:7.34.4'
-
-    // Source: https://mvnrepository.com/artifact/io.cucumber/cucumber-core
-//    implementation'io.cucumber:cucumber-core:7.34.4'
-
-    // Source: https://mvnrepository.com/artifact/io.cucumber/cucumber-junit
-//    testImplementation'io.cucumber:cucumber-junit:7.34.4'
 
 
     // Движок интеграции Cucumber с платформой JUnit 5
@@ -34,9 +27,6 @@ dependencies {
     // Аннотации @Suite для создания JUnit 5 раннеров
     testImplementation 'org.junit.platform:junit-platform-suite:1.10.2'
 
-
-//    testImplementation 'io.cucumber:cucumber-junit-platform-engine:7.X.X'
-//    testImplementation 'org.junit.platform:junit-platform-suite:1.X.X'
 
     // Source: https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
     implementation("org.seleniumhq.selenium:selenium-java:4.45.0")
