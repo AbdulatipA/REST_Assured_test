@@ -12,6 +12,8 @@ https://github.com/AbdulatipA/REST_Assured_test/tree/master/src/test/java/specif
 >[Код](https://github.com/AbdulatipA/REST_Assured_test/blob/master/src/test/java/cucumber/CalculatorFeature.java)
 
 **Calculator UI:**
+>[Basic Calculator](https://testsheepnz.github.io/BasicCalculator.html?utm_source=chatgpt.com)
+
 >[Сценарий](https://github.com/AbdulatipA/REST_Assured_test/blob/master/src/test/resources/scenarios/calculator_ui_scenario.feature)
 
 >[Код](https://github.com/AbdulatipA/REST_Assured_test/blob/master/src/test/java/cucumber/CalculatorUITest.java)
