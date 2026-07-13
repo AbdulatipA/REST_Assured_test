@@ -5,9 +5,11 @@ https://github.com/AbdulatipA/REST_Assured_test/tree/master/src/test/java/specif
 
 ## Cucumber
 **Calculator:**
-> [Сценарий]https://github.com/AbdulatipA/REST_Assured_test/blob/master/src/test/resources/scenarios/calculator_scenario.feature
-> [Код]https://github.com/AbdulatipA/REST_Assured_test/blob/master/src/test/java/cucumber/CalculatorFeature.java
+[Сценарий](https://github.com/AbdulatipA/REST_Assured_test/blob/master/src/test/resources/scenarios/calculator_scenario.feature)
+
+[Код](https://github.com/AbdulatipA/REST_Assured_test/blob/master/src/test/java/cucumber/CalculatorFeature.java)
 
 **Calculator UI:**
-> [Сценарий]https://github.com/AbdulatipA/REST_Assured_test/blob/master/src/test/resources/scenarios/calculator_ui_scenario.feature
-> [Код]https://github.com/AbdulatipA/REST_Assured_test/blob/master/src/test/java/cucumber/CalculatorUITest.java
+>[Сценарий](https://github.com/AbdulatipA/REST_Assured_test/blob/master/src/test/resources/scenarios/calculator_ui_scenario.feature)
+
+>[Код](https://github.com/AbdulatipA/REST_Assured_test/blob/master/src/test/java/cucumber/CalculatorUITest.java)
